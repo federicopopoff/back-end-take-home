@@ -1,3 +1,5 @@
+It Is a WebApi made in .NET with a GET endpoint, where Users will be able to search for routes given an origin and destination.
+
 # Summary
 * This project is in .Net Framework 4.7.2.
 * Projects names: WebApiGuestLogix , WebApiGuestLogix.Tests
