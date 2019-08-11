@@ -3,7 +3,7 @@ It Is a WebApi made in .NET with a GET endpoint, where Users will be able to sea
 # Summary
 * This project is in .Net Framework 4.7.2.
 * Projects names: WebApiGuestLogix , WebApiGuestLogix.Tests
-* I managed to use the CSV files locally. But, for default, I used those from the github account from GuestLogix. The reason is regarding of the security in Azure against of use files within the project.
+* I managed to use the CSV files locally. But, for default, I used those from the github account from GuestLogix. The reason why is regarding of the security in Azure against of use files within the project.
 * You can run the project locally or use the published site in Azure.
 
 # Running WebAPI - Locally
